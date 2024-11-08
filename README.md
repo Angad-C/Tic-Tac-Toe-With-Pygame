@@ -1,4 +1,4 @@
-# Tic-Tac-Toe-With-Pygame
+# Tic-Tac-Toe With Pygame
 
 The objective of this project was to create a 2 player 3x3 Tic Tac Toe game board. I created this project individually to develop my skill in Python’s Pygame library, and in using and iterating through Python’s data structures.
 
